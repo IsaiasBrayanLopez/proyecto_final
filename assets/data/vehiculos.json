@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Corolla Hybrid",
+    "anio": 2025,
+    "categoria": "Sedán",
+    "precio": 485000,
+    "motor": "1.8L Híbrido",
+    "transmision": "Automática CVT",
+    "imagenUrl": "https://picsum.photos/id/111/800/600",
+    "equipamiento": [
+      "Frenos ABS y 8 bolsas de aire",
+      "Pantalla táctil de 9 pulgadas con Apple CarPlay",
+      "Control crucero adaptativo",
+      "Cámara de reversa de alta definición"
+    ],
+    "pasosRevision": [
+      "Verificar nivel de líquido refrigerante del inversor híbrido.",
+      "Inspeccionar presión de neumáticos a 33 PSI en frío.",
+      "Comprobar estado de pastillas de freno regenerativo.",
+      "Escanear batería híbrida cada 15,000 km."
+    ]
+  },
+  {
+    "id": 2,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "anio": 2025,
+    "categoria": "SUV",
+    "precio": 589000,
+    "motor": "2.5L Skyactiv-G",
+    "transmision": "Automática 6 Vel",
+    "imagenUrl": "https://picsum.photos/id/133/800/600",
+    "equipamiento": [
+      "Faros LED dirigibles automáticos",
+      "Asientos en piel con ajuste eléctrico",
+      "Monitor de punto ciego y alerta de tráfico trasero",
+      "Sistema de audio Bose de 10 bocinas"
+    ],
+    "pasosRevision": [
+      "Cambiar aceite sintético 0W-20 cada 10,000 km.",
+      "Reemplazar filtro de aire de cabina y motor.",
+      "Alinear y rotar neumáticos en patrón cruzado.",
+      "Verificar tensión y carga de batería de 12V."
+    ]
+  },
+  {
+    "id": 3,
+    "marca": "Suzuki",
+    "modelo": "Gixxer 250 SF",
+    "anio": 2024,
+    "categoria": "Motocicleta",
+    "precio": 82990,
+    "motor": "249cc SOCS",
+    "transmision": "Manual 6 Vel",
+    "imagenUrl": "https://picsum.photos/id/146/800/600",
+    "equipamiento": [
+      "Sistema de enfriamiento por aceite SOCS",
+      "Frenos de disco ByBre con ABS de doble canal",
+      "Tablero digital LCD completo",
+      "Faro delantero y calavera con iluminación LED"
+    ],
+    "pasosRevision": [
+      "Lubricar y ajustar holgura de cadena de transmisión.",
+      "Inspeccionar laminillas del radiador de aceite y nivel 10W-40.",
+      "Purgar líquido de frenos DOT 4 y limpiar cáliper delantero.",
+      "Verificar voltaje de batería (12.6V en reposo) y relé de arranque."
+    ]
+  },
+  {
+    "id": 4,
+    "marca": "Ford",
+    "modelo": "Ranger XLT",
+    "anio": 2025,
+    "categoria": "Pickup",
+    "precio": 745000,
+    "motor": "2.3L EcoBoost",
+    "transmision": "Automática 10 Vel",
+    "imagenUrl": "https://picsum.photos/id/183/800/600",
+    "equipamiento": [
+      "Capacidad de carga de más de 1 tonelada",
+      "Tablero digital de 8 pulgadas",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Asistente de arranque en pendientes"
+    ],
+    "pasosRevision": [
+      "Inspeccionar muelles traseros y amortiguadores de carga.",
+      "Drenar separador de agua del sistema de combustible.",
+      "Revisar estado de crucetas y cardán de transmisión.",
+      "Cambiar aceite de diferencial según uso de remolque."
+    ]
+  },
+  {
+    "id": 5,
+    "marca": "Honda",
+    "modelo": "Civic Touring",
+    "anio": 2025,
+    "categoria": "Sedán",
+    "precio": 565000,
+    "motor": "1.5L Turbo",
+    "transmision": "Automática CVT",
+    "imagenUrl": "https://picsum.photos/id/655/800/600",
+    "equipamiento": [
+      "Asistencia de mantenimiento de carril Honda Sensing",
+      "Techo corredizo eléctrico de un toque",
+      "Cargador inalámbrico para smartphone",
+      "Climatizador automático de doble zona"
+    ],
+    "pasosRevision": [
+      "Reemplazar fluido de transmisión CVT cada 40,000 km.",
+      "Inspeccionar presión del sistema turbocargador.",
+      "Limpiar cuerpo de aceleración electrónico.",
+      "Verificar desgaste de balatas en las 4 ruedas."
+    ]
+  }
+]
