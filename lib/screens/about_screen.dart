@@ -27,12 +27,12 @@ class AboutScreen extends StatelessWidget {
             ),
             const SizedBox(height: 8),
             const TeamMemberTile(
-              nombre: 'Programador A (Tu Nombre)',
+              nombre: 'Programador A Lopez Domínguez Isaías Brayan',
               rol: 'Modelos, Widgets Bloque 1 y Pantallas Principales',
               githubUser: 'usuario_programador_a',
             ),
             const TeamMemberTile(
-              nombre: 'Programador B (Nombre Compañero/a)',
+              nombre: 'Programador B Barrios Velasco Jazlynn',
               rol: 'Servicios JSON, Tema, Widgets Bloque 2 y Pantallas Finales',
               githubUser: 'usuario_programador_b',
             ),
