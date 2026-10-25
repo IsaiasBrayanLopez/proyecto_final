@@ -23,13 +23,13 @@ class AboutScreen extends StatelessWidget {
             const SizedBox(height: 16),
             const SectionHeader(
               title: 'Integrantes de la Bina',
-              subtitle: 'Colaboradores del repositorio Git',
+              subtitle: 'Flujo colaborativo con Ramas y Pull Requests',
             ),
             const SizedBox(height: 8),
             const TeamMemberTile(
               nombre: 'Programador A Lopez Domínguez Isaías Brayan',
               rol: 'Modelos, Widgets Bloque 1 y Pantallas Principales',
-              githubUser: 'usuario_programador_a',
+              githubUser: 'IsaíasBrayanLópez',
             ),
             const TeamMemberTile(
               nombre: 'Programador B Barrios Velasco Jazlynn',
