@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 class AppTheme {
 
-  static const Color primaryColor = Color(0xFF34495E);    // Azul pizarra sobrio
-  static const Color accentColor = Color(0xFF5D6D7E);     // Gris azulado suave
+static const Color primaryColor = Color(0xFF34495E);    // Azul pizarra sobrio
+  static const Color accentColor = Color(0xFF4A6572);     // Azul acero suave  
   static const Color backgroundColor = Color(0xFFF4F6F8); // Fondo claro descansado
   static const Color cardColor = Colors.white;
   static const Color textPrimary = Color(0xFF2C3E50);
