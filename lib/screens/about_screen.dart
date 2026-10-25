@@ -23,7 +23,7 @@ class AboutScreen extends StatelessWidget {
             const SizedBox(height: 16),
             const SectionHeader(
               title: 'Integrantes de la Bina',
-              subtitle: 'Flujo colaborativo con Ramas y Pull Requests',
+subtitle: 'Arquitectura por Capas, JSON y Flujo Git con PRs',
             ),
             const SizedBox(height: 8),
             const TeamMemberTile(
@@ -34,7 +34,7 @@ class AboutScreen extends StatelessWidget {
             const TeamMemberTile(
               nombre: 'Programador B Barrios Velasco Jazlynn',
               rol: 'Servicios JSON, Tema, Widgets Bloque 2 y Pantallas Finales',
-              githubUser: 'usuario_programador_b',
+              githubUser: 'Jazlynn22',
             ),
             const SizedBox(height: 24),
             CustomActionButton(
