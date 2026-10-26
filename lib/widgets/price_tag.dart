@@ -15,7 +15,7 @@ class PriceTag extends StatelessWidget {
         borderRadius: BorderRadius.circular(8),
       ),
       child: Text(
-        '\$${precio.toStringAsFixed(0)} MXN',
+        'Precio: \$${precio.toStringAsFixed(0)} MXN',
         style: const TextStyle(
           fontWeight: FontWeight.bold,
           color: AppTheme.primaryColor,
