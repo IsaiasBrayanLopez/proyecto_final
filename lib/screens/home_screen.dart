@@ -59,8 +59,8 @@ class _HomeScreenState extends State<HomeScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const SectionHeader(
-                  title: 'Bienvenido al Catálogo',
-                  subtitle: 'Consulta fichas técnicas, precios y mantenimiento.',
+                  title: 'Catálogo Automotriz Digital',
+                  subtitle: 'Explora fichas técnicas, equipamiento y precios.',
                 ),
                 const SizedBox(height: 16),
                 Row(
