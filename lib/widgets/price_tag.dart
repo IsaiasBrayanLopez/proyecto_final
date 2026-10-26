@@ -14,12 +14,18 @@ class PriceTag extends StatelessWidget {
         color: AppTheme.backgroundColor,
         borderRadius: BorderRadius.circular(8),
       ),
+<<<<<<< HEAD
+ child: Text(
+        '\$${precio.toStringAsFixed(0)} MXN',
+=======
       child: Text(
         'Precio: \$${precio.toStringAsFixed(0)} MXN',
+>>>>>>> origin/main
         style: const TextStyle(
           fontWeight: FontWeight.bold,
           color: AppTheme.primaryColor,
-          fontSize: 14,
+          fontSize: 13,
+          letterSpacing: 0.4,
         ),
       ),
     );
